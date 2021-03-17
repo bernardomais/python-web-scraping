@@ -1,0 +1,58 @@
+[
+   {
+      "title": "IAM Access Analyzer Update – Policy Validation",
+      "author": "Jeff Barr",
+      "time": "2021-03-16T14:52:11-07:00",
+      "image": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+      "preview": "\nAWS Identity and Access Management (IAM) is an important and fundamental part of AWS. You can create IAM policies and service control policies (SCPs) that define the desired level of access to specific AWS services and resources, and then attach the policies to IAM principals (users and roles), groups of users, or to AWS resources. […]\nRead More\n"
+   },
+   {
+      "title": "New Amazon EC2 X2gd Instances – Graviton2 Power for Memory-Intensive Workloads",
+      "author": "Jeff Barr",
+      "time": "2021-03-16T14:47:59-07:00",
+      "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2021/03/16/Site-Merch_Amazon-EC2-X2gd_SocialMedia_1-1024x536.png",
+      "preview": "\nWe launched the first Graviton-powered EC2 instances in late 2018 and announced the follow-on Graviton2 processor just a year later. The dual SIMD units, support for int8 and fp16 instructions, and other architectural improvements between generations combine to make the Graviton2 a highly cost-effective workhorse processor. Today, you can choose between General Purpose (M6g and […]\nRead More\n"
+   },
+   {
+      "title": "AWS Fault Injection Simulator – Use Controlled Experiments to Boost Resilience",
+      "author": "Jeff Barr",
+      "time": "2021-03-15T15:58:17-07:00",
+      "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2021/03/15/Site-Merch_AWS-Fault-Injection-Simulator_SocialMedia_1-1024x536.png",
+      "preview": "\nAWS gives you the components that you need to build systems that are highly reliable: multiple Regions (each with multiple Availability Zones), Amazon CloudWatch (metrics, monitoring, and alarms), Auto Scaling, Load Balancing, several forms of cross-region replication, and lots more. When you put them together in line with the guidance provided in the Well-Architected Framework, […]\nRead More\n"
+   },
+   {
+      "title": "Amazon S3 Glacier Price Reduction",
+      "author": "Jeff Barr",
+      "time": "2021-03-15T08:28:10-07:00",
+      "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2021/03/12/s3_gl_modes_2.png",
+      "preview": "\nThe Amazon S3 Glacier storage class is ideal for data archiving and long-term backup of information that will be accessed at least once per quarter (Amazon S3 Glacier Deep Archive is a better fit for data that is seldom accessed). Amazon S3 Glacier stores your data across three Availability Zones (AZs), each physically separated from […]\nRead More\n"
+   },
+   {
+      "title": "Celebrate 15 Years of Amazon S3 with ‘Pi Week’ Livestream Events",
+      "author": "Jeff Barr",
+      "time": "2021-03-14T10:35:55-07:00",
+      "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2021/03/12/site_merch_s3_birthday_blog_1.png",
+      "preview": "\nI wrote the blog post that announced Amazon Simple Storage Service (S3) fifteen years ago today. In that post, I made it clear that the service was accessed via APIs and that it was targeted at developers, outlined a few key features, and shared pricing information. Developers found that post, started to write code to […]\nRead More\n"
+   },
+   {
+      "title": "How to Use Channel Assembly with AWS Elemental MediaTailor to Launch Virtual Channels from Existing Sources",
+      "author": "Sébastien Stormacq",
+      "time": "2021-03-11T14:33:43-08:00",
+      "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2021/03/04/Channel_Assembly_HERO_IMAGE.png",
+      "preview": "\nIf you’re a broadcaster or Over-the-Top (OTT) channel operator, you can now create virtual channels by pulling together programming from multiple existing on-demand sources and blending them into a linear playlist. Creating a customized channel for a smaller audience group — such as a category of viewers based on interest, or regional preferences — was […]\nRead More\n"
+   },
+   {
+      "title": "Get to know the first new AWS Heroes of 2021!",
+      "author": "Ross Barich",
+      "time": "2021-03-11T13:01:31-08:00",
+      "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/07/03/AWS-Heroes-1024x512.png",
+      "preview": "\nThe global AWS Heroes program recognizes individuals who are prominent leaders in local tech communities. Heroes help others learn about AWS by sharing knowledge via blog posts, presentations, social media, and open source projects; or by organizing events, Meetups, and workshops. As global communities grow we continue to see new leaders emerge, and today we’re […]\nRead More\n"
+   },
+   {
+      "title": "New – Lower Cost Storage Classes for Amazon Elastic File System",
+      "author": "Channy Yun",
+      "time": "2021-03-09T13:11:43-08:00",
+      "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2021/03/05/Site-Merch_Amazon-EFS_SocialMedia_1-1024x536.png",
+      "preview": "\nAmazon Elastic File System (Amazon EFS) provides a simple, serverless, set-and-forget elastic file system for shared data across Amazon Elastic Compute Cloud (EC2) instances or with container and serverless services such as Amazon Elastic Container Service (ECS), Amazon Elastic Kubernetes Service (EKS), AWS Fargate, and AWS Lambda. Until now, customers could choose Amazon EFS Standard […]\nRead More\n"
+   }
+]
