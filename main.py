@@ -23,5 +23,5 @@ for post in posts:
         'preview': preview
     })
 
-with open('posts.json', 'w') as json_file:
+with open('response/aws-posts.json', 'w') as json_file:
     json.dump(all_posts, json_file, indent=3, ensure_ascii=False)
